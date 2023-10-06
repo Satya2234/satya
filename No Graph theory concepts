@@ -1,0 +1,7 @@
+README.md: In your repository's README file, you can include a section titled "Contribution Guidelines" or "What We're Looking For," and state explicitly that you are not accepting Graph Theory concepts as contributions for Hacktoberfest. You can say something like:
+## Contribution Guidelines
+
+Issue Templates: If you have issue templates for contributors to follow, make it clear in those templates that Graph Theory topics are not accepted for this event.
+
+Pull Request Template: In your pull request template, you can mention again that Graph Theory contributions will not be considered for Hacktoberfest
+Labels: You can create a label like "Not for Hacktoberfest - Graph Theory" and apply it to issues and pull requests that are not eligible for Hacktoberfest contributions. This will help contributors easily identify which topics are not allowed.
